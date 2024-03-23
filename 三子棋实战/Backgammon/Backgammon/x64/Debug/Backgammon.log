@@ -1,2 +1,4 @@
-﻿  test.c
+﻿  game.c
+E:\code\c-language-learning-process\三子棋实战\Backgammon\game.c(92,14): warning C4098: “ComputerMove”:“void”函数返回值
+E:\code\c-language-learning-process\三子棋实战\Backgammon\game.c(111,14): warning C4098: “ComputerMove”:“void”函数返回值
   Backgammon.vcxproj -> E:\code\c-language-learning-process\三子棋实战\Backgammon\x64\Debug\Backgammon.exe
