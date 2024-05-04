@@ -1,0 +1,3 @@
+﻿  test.c
+D:\2021_code\class101\test_5_9\test_5_9\test.c(403,1): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+  test_5_9.vcxproj -> D:\2021_code\class101\test_5_9\Debug\test_5_9.exe

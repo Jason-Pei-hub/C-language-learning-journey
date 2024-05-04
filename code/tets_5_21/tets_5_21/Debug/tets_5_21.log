@@ -1,0 +1,3 @@
+﻿  test.c
+D:\2021_code\class101\tets_5_21\tets_5_21\test.c(307,1): warning C4305: “初始化”: 从“int”到“char”截断
+  tets_5_21.vcxproj -> D:\2021_code\class101\tets_5_21\Debug\tets_5_21.exe
